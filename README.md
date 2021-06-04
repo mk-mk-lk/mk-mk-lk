@@ -3,14 +3,12 @@
 # Hello there! I'm mk-mk-lk <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <!-- BADGES -->
-[![Github](https://img.shields.io/badge/Ge=flat&labelColor=224242&logoColor=ithub-000000?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=github)](https://github.com/bemroofficial)
+[![Github](https://img.shields.io/badge/Ge=flat&labelColor=224242&logoColor=ithub-000000?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=github)](https://github.com/mk-mk-lk)
 <!-- INFO -->
 
 **Abot me**
 
 <!-- IMG -->
-
-<img width="55%" align="right" alt="img " src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" 
 
 <!-- STATS -->
 
