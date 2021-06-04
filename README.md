@@ -23,8 +23,7 @@
 &nbsp;
 
 # LANGUAGES & TOOLS
-    <img width="40%"align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk-mk-lk&show_icons=true&theme=midnight-purple" />
-  </a>
+
 
 <!-- L&T -->
 <p>
